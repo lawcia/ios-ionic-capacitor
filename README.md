@@ -1,4 +1,4 @@
-# Ionic - Capactitor
+# Ionic - Capacitor
 - docs => https://ionicframework.com/docs/developing/ios
 ## ios build - install these first
 - install CocoaPods => https://guides.cocoapods.org/using/getting-started.html#installation
@@ -16,4 +16,3 @@ add ios project
 
 run simulator
 ```ionic capacitor run ios```
-# ios-ionic-capacitor
