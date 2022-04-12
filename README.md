@@ -16,3 +16,4 @@ add ios project
 
 run simulator
 ```ionic capacitor run ios```
+# ios-ionic-capacitor
