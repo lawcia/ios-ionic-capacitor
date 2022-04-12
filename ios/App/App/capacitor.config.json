@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter.lawcia",
+	"appName": "my-ionic-app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
